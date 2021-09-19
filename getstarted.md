@@ -245,7 +245,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: red }
 
 .gs-section-01 p {
-     font-size: 30px;
+     font-size: 20px;
 }
 </style>
 
@@ -262,10 +262,22 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-03 h3 { 
-     font-family: "Comic Sans MS", "Comic Sans", cursive
+     font-family: "Comic Sans MS", "Comic Sans", cursive;
      color: orange }
 
 .gs-section-03 p {
+     font-size: 20px;
+}
+
+</style>
+
+<style>
+
+.gs-section-04 h3 { 
+     font-style: italic;
+     color: purple }
+
+.gs-section-04 p {
      font-size: 20px;
 }
 
