@@ -243,7 +243,6 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 .gs-section-01 h3 { 
      color: red }
-
 .gs-section-01 p {
      font-size: 20px;
 }
@@ -253,30 +252,23 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-02 h3 { 
      font-family: "Helvetica", "Arial", sans-serif; 
      color: green }
-
 .gs-section-02 p {
      font-size: 20px;
 }
 </style>
 
 <style>
-
 .gs-section-03 h3 { 
-     font-family: "Comic Sans MS", "Comic Sans", cursive;
      color: orange }
-
 .gs-section-03 p {
      font-size: 20px;
 }
-
 </style>
 
 <style>
-
 .gs-section-04 h3 { 
      font-style: italic;
      color: purple }
-
 .gs-section-04 p {
      font-size: 20px;
 }
