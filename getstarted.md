@@ -251,6 +251,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 .gs-section-02 h3 { 
+     font-family: "Helvetica", "Arial", sans-serif; 
      color: green }
 
 .gs-section-02 p {
@@ -261,10 +262,11 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-03 h3 { 
+     font-family: "Comic Sans MS", "Comic Sans", cursive
      color: orange }
 
 .gs-section-03 p {
-     font-size: 40px;
+     font-size: 20px;
 }
 
 </style>
