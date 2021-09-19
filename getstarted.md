@@ -82,7 +82,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-03" markdown="1">
 
 ### 3. Customize your website settings
 
@@ -92,7 +92,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 </div>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-04" markdown="1">
 
 ### 4. Congratulations! You have a website!
 
@@ -241,23 +241,30 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
 <style>
-
 .gs-section-01 h3 { 
      color: red }
 
 .gs-section-01 p {
      font-size: 30px;
 }
-
 </style>
 
 <style>
-
 .gs-section-02 h3 { 
      color: green }
 
 .gs-section-02 p {
      font-size: 20px;
+}
+</style>
+
+<style>
+
+.gs-section-03 h3 { 
+     color: orange }
+
+.gs-section-03 p {
+     font-size: 40px;
 }
 
 </style>
